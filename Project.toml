@@ -1,0 +1,7 @@
+name = "OMOPCDMDatabaseConnector"
+uuid = "123dea01-d0aa-44c8-898b-977e0601f7b1"
+version = "0.0.1"
+
+[deps]
+DBInterface = "a10d1c49-ce27-4219-8d33-6db1a4562965"
+LibPQ = "194296ae-ab2e-5f79-8cd4-7183a0a5a0d1"
