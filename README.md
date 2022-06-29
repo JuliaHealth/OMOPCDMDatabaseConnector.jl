@@ -32,7 +32,7 @@ This assumes you have access to an OMOP CDM database set-up with PostgreSQL.
 ```julia
 using DBInterface
 using LibPQ
-usingOMOPCDMDatabaseConnector 
+using OMOPCDMDatabaseConnector 
 using OMOPCDMDatabaseConnector
 ```
 
